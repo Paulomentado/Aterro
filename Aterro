@@ -1,0 +1,5 @@
+'git config--global user.name "Paulomentado"
+git config--global user.adress "p.fragoso@unesp.br"
+'git init'
+`git clone https://gist.github.com/magickatt/07ff02068f8cd2e4e558f20358b2082c
+git help
